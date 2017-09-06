@@ -15,3 +15,8 @@ you put all the files you want to commit when the
 next commit is made. It makes it possible to
 select the files you wish to be part of the commit
 and that is a good thing.
+
+How can you use the staging area to make sure you
+have one commit per logical change?
+
+Use the command git diff --staged.
