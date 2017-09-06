@@ -1,0 +1,7 @@
+What happens when you initialize a repository?
+Why do you need to do it?
+
+Git creates a repository without any commits. It
+creates a hidden folder with all the different
+versions of the files, metadata about them and
+so on.

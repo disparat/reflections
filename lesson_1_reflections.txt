@@ -1,0 +1,72 @@
+How did viewing a diff between two
+versions of a file help you see
+the bug that was introduced?
+
+It automaticly finds the sections
+with changed text so that I didn't
+have to look through all the code
+for spelling errors.
+
+How could having easy access to
+the entire history of a file make
+you a more efficient programmer in
+the long term?
+
+I can easily see the progression I
+made since the first version. It
+could also help me find bugs in
+newer versions by comparing them
+to older versions.
+
+What do you think are the pros and
+cons of manually choosing when to
+create a commit, like you do in Git,
+vs having versions automatically
+saved, like Google Docs does?
+
+Its a responsibility for the
+programmer to actually do the
+commits when when they should be
+done. If making commits when a
+new logic has been introduced,
+then its easier to understand
+the change in that version, the
+code can compile and it all makes
+more sense.
+
+Why do you think some version
+control systems, like Git, allow
+saving multiple files in one commit,
+while others, like Google Docs, treat
+each file seperatly?
+
+Because sometimes it's useful to save
+files that are connected to one
+another in one go. Changes made to
+one of them effects others and
+therefor it's logical to keep them all
+connected to a version. Google Docs
+often work with separate documents that
+have no dependensies between each other.
+
+How can you use the commands git log
+and git diff to view the history of files?
+
+Git log shows all the commits made with
+a message that describes the version change.
+Git diff shows the line changes made between
+two specific commits.
+
+How might using version control make you
+more confident to make changes that could
+break something?
+
+It gives you confidence because you know
+that you can always return to a previous
+version later on.
+
+Now that you have your workspace set up,
+what do you want to try using Git for?
+
+I would like to use it for a programming
+project in the android programming cource.
