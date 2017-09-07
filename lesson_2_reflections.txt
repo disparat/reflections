@@ -43,3 +43,12 @@ Why do we represent it in the diagram the way we do?
 To combine code from diffrent branches. Each branch
 still has its history so that you can look back at
 the changes made in each branch.
+
+What are the pros and cons of Git´s automatic
+merging vs. always doing merges manually?
+
+When it´s obvious that there will be no conflict in
+a merge, automatic merge works just fine. It speeds
+up time does a lot of job automaticly for you. When
+there are conflict it lets you decide how to resolve
+them.
