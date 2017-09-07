@@ -29,3 +29,10 @@ When trying out new features that you don't
 know for certain will be kept in the feuture.
 When developing different final versions of the
 finished product.
+
+How do the diagrams help you visualize the branch
+structure?
+
+They make it easy to follow the path of made commits
+in different branches back in time. You can easily
+se wich one is connected to another.
