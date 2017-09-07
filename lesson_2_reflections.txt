@@ -36,3 +36,10 @@ structure?
 They make it easy to follow the path of made commits
 in different branches back in time. You can easily
 se wich one is connected to another.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+To combine code from diffrent branches. Each branch
+still has its history so that you can look back at
+the changes made in each branch.
