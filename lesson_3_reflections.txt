@@ -5,3 +5,17 @@ stay up-to-date with your remote repository?
 One reason is that someone else could have
 made the changes and it isn't certain that
 you want those changes locally.
+
+Describe the differences between forks,
+clones, and branches. When would you use one
+instead of another?
+
+Make a clone to make a copy of a repository.
+Make a fork if you want to make the clone
+directly from github and if you want
+some information saved about from where/who
+you got the fork. Also that makes it easier
+to make suggestions to the original author.
+Branches are just different paths of commits
+in a repository - to separate new features or
+for some other reason.
