@@ -19,3 +19,9 @@ to make suggestions to the original author.
 Branches are just different paths of commits
 in a repository - to separate new features or
 for some other reason.
+
+What is the benefit of having a copy of the
+last known state of the remote stored locally?
+
+Then you know you're not missing out on
+anything.
