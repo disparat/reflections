@@ -37,3 +37,14 @@ several people works on the same file/files.
 Git and github however has a learning curve
 that can be cumbersome for those who don't
 yet knows how it works.
+
+When would you want to make changes in a
+separate branch rather than directly in
+master? What benefits does each approach
+have?
+
+Benefit for making changes in the master is
+that the workflow is easier. Benefit for
+using branches is to separate changes made
+from the master and get people approve of
+the changes before merging them to master.
