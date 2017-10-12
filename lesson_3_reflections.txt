@@ -25,3 +25,15 @@ last known state of the remote stored locally?
 
 Then you know you're not missing out on
 anything.
+
+How would you collaborate without using Git
+or GitHub? What would be easier, and what
+would be harder?
+
+Keeping track of who makes changes, when and
+to what files would be a lot harder without
+git and github. Conflicts could arise when
+several people works on the same file/files.
+Git and github however has a learning curve
+that can be cumbersome for those who don't
+yet knows how it works.
